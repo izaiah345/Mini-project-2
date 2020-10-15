@@ -26,7 +26,7 @@ public class Main {
       //this determines what is there problem
     System.out.println("Thank you " + name + " you are " + age + " years old");
     System.out.println("and your problem today is " + issue);
-
+    // to show them what information they had given to us 
     System.out.println("An IT Tech will be with you as soon as possible");
 
 
