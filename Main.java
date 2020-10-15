@@ -9,7 +9,7 @@ public class Main {
 
     System.out.println("What is your age?");
     int age = scan.nextInt();
-
+    // I did age so someone who can be tought what they need to know 
     System.out.println("Why are you needing help today? 1-computer power on 2-computer frezze");
     int issue = scan.nextInt();
     
@@ -23,6 +23,7 @@ public class Main {
       issue = 2;
 
       System.out.println( issue != issue );
+      //this determines what is there problem
     System.out.println("Thank you " + name + " you are " + age + " years old");
     System.out.println("and your problem today is " + issue);
 
@@ -37,7 +38,7 @@ public class Main {
     System.out.println(count);
     count++;
     }
- 
+    //this determines if they would want to rate our service 
 
 
 
