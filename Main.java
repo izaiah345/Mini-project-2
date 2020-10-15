@@ -39,5 +39,6 @@ public class Main {
     count++;
     }
     //this determines if they would want to rate our service 
+    System.out.print("Thank you!");
   }
 }
