@@ -13,12 +13,12 @@ public class Main {
     System.out.println("Why are you needing help today? 1-computer power on 2-computer frezze");
     int issue = scan.nextInt();
     
-    issue=1;
-    issue=2;
+    issue=1; 
+    issue=2; 
     
     System.out.println( issue == issue );
-     issue = 1;
-
+     issue = 1; 
+ 
       System.out.println( issue &= issue );
       issue = 2;
 
