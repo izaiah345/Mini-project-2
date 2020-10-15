@@ -26,10 +26,10 @@ public class Main {
     System.out.println("Thank you " + name + " you are " + age + " years old");
     System.out.println("and your problem today is " + issue);
 
-    System.out.print("An IT Tech will be with you as soon as possible");
+    System.out.println("An IT Tech will be with you as soon as possible");
 
 
-    System.out.println(" can you rate our serverices");
+    System.out.println("Can you please rate our serverices?");
     
     int count = 1;
     while (count <= 10)
