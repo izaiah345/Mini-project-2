@@ -6,7 +6,7 @@ public class Main {
     Scanner scan = new Scanner(System.in);
     System.out.println("Hello! welcome to tech support whats your name?");
     String name = scan.next();
-
+   // I thought doing an IT tech company would be easier 
     System.out.println("What is your age?");
     int age = scan.nextInt();
     // I did age so someone who can be tought what they need to know 
